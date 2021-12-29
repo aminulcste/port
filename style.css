@@ -1,0 +1,17 @@
+body{
+    font-family: Shizuru;
+   
+}
+h1{
+    font-size: 20px;
+}
+.name{
+    color: rgb(255, 106, 7);
+}
+.half{
+    width: 40%;
+    float: left;
+}
+.half img{
+    width: 500px;;
+}
